@@ -104,8 +104,6 @@ Implemented and benchmarked four classification algorithms on a common dataset, 
 
 </div>
 
-> The snake above animates automatically via GitHub Actions — see `.github/workflows/snake.yml`. It regenerates daily from your live contribution graph, so no manual updates needed.
-
 <br/>
 
 <div align="center">
