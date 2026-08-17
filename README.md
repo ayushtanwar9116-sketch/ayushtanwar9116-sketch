@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Tanwar;Web+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
