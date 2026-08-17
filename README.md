@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Ayush+Tanwar;Web+Developer;Software+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Ayush+Tanwar;Software+Developer;Full Stack+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -80,16 +80,6 @@ Implemented and benchmarked four classification algorithms on a common dataset, 
 - 💼 Deloitte Australia — Technology Job Simulation
 - 🤖 Vanderbilt University — Prompt Engineering
 - 🗣️ IBM — Developing Interpersonal Skills
-
-<br/>
-
-## Leadership & Involvement
-
-- **Head of Curations**, IEEE Computer Society — led curation for technical events, workshops & competitions
-- **Joint Head of Promotions**, E-Cell MUJ — led promotional campaigns for entrepreneurship events
-- **Core Committee Member, Curations Team**, MUJ HackX — coordinated curation activities for the hackathon
-- **Executive Committee Member, Curations Team**, MUJ HackX — organized one of MUJ's flagship hackathons
-- **Executive Committee Member, Curations & Corporate Team**, IIC — managed curation & corporate outreach
 
 <br/>
 
