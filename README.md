@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Ayush%20Tanwar&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Building%20Web%20%26%20AI%2FML%20Projects&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;DSA+%2B+C%2B%2B+Enthusiast;Web+Developer;AI%2FML+Explorer;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Tanwar;Web+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
 
 <br/>
