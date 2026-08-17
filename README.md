@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Ayush%20Tanwar&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Building%20Web%20%26%20AI%2FML%20Projects&descAlignY=55&descSize=18&animation=fadeIn" />
+# Hi, I'm Ayush Tanwar 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Tanwar;software+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Ayush+Tanwar;Web+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
+
 <br/>
 
 <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,12 +19,13 @@
 
 ## About Me
 
-- 🎓 B.Tech in Computer Science @ **Manipal University Jaipur**
+- 🎓 B.Tech in Computer Science @ **Manipal University Jaipur** — CGPA **8.20/10**, latest semester **9.00/10**
 - 💻 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, and Operating Systems**
 - 🛠️ Currently deep into **C++ based DSA** and **full-stack web development**
 - 🤖 Exploring **AI/ML** — from prompt engineering to classification algorithms
 - 🌱 Learning by building — frontend clones, ML comparisons, and more on the way
-- 📫 Reach me at **ayushtanwarmuj@gmail.com**
+- 📫 Reach me at **ayushtanwar9116@gmail.com**
+- ⚡ Fun fact: I'd rather debug a segfault at 2 AM than leave it for tomorrow
 
 <br/>
 
@@ -140,6 +142,8 @@ Implemented and benchmarked four classification algorithms on a common dataset, 
 
 <img src="https://komarev.com/ghpvc/?username=ayushtanwar9116-sketch&style=for-the-badge&color=6C63FF" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" />
+<br/><br/>
+
+⭐️ Thanks for stopping by!
 
 </div>
