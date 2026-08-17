@@ -17,13 +17,12 @@
 
 ## About Me
 
-- 🎓 B.Tech in Computer Science @ **Manipal University Jaipur** — CGPA **8.20/10**, latest semester **9.00/10**
+- 🎓 B.Tech in Computer Science @ **Manipal University Jaipur**
 - 💻 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, and Operating Systems**
 - 🛠️ Currently deep into **C++ based DSA** and **full-stack web development**
 - 🤖 Exploring **AI/ML** — from prompt engineering to classification algorithms
 - 🌱 Learning by building — frontend clones, ML comparisons, and more on the way
-- 📫 Reach me at **ayushtanwar9116@gmail.com**
-- ⚡ Fun fact: I'd rather debug a segfault at 2 AM than leave it for tomorrow
+- 📫 Reach me at **ayushtanwarmuj@gmail.com**
 
 <br/>
 
