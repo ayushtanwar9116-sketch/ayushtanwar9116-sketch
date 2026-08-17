@@ -1,9 +1,7 @@
 <div align="center">
 
-# Hi, I'm Ayush Tanwar 👋
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Ayush+Tanwar;Web+Developer+%7C+AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Ayush+Tanwar;Web+Developer;Software+Developer;AI%2FML+Explorer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -68,24 +66,11 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ayushtanwar9116-sketch">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushtanwar9116-sketch&repo=spotify-clone&theme=default&hide_border=true&title_color=6C63FF" />
-</a>
-<a href="https://github.com/ayushtanwar9116-sketch">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushtanwar9116-sketch&repo=ml-algorithm-comparison&theme=default&hide_border=true&title_color=6C63FF" />
-</a>
-
-</div>
-
 **🎵 Spotify Frontend Clone** — `HTML5` `CSS3` `Bootstrap` `JavaScript`
 Pixel-accurate recreation of Spotify's web interface — sidebar navigation, playlists, album cards, and a working music player layout, built with a strong focus on responsive, consistent styling.
 
 **📊 Comparative Analysis of Machine Learning Algorithms** — `Python` `Decision Tree` `Random Forest` `Naive Bayes` `C4.5`
 Implemented and benchmarked four classification algorithms on a common dataset, reaching **96.40% accuracy**, then analyzed performance trade-offs to identify the most effective model.
-
-> 💡 *Update the `repo` names above once these projects are pushed to GitHub so the pinned cards render correctly.*
 
 <br/>
 
